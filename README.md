@@ -3,4 +3,4 @@ a calculator for finding how much a meal will cost with a 7.25% tax, and 16.3% t
 
 in var 'cost' input the cost of your meal by replacing 'X'.
 
-code is currently supper bare bones.
+code is currently supper bare bones, and will be improved more once i gain more experience
